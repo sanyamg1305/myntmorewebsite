@@ -25,7 +25,7 @@ export const SERVICES: Service[] = [
   {
     id: 'sdr-services',
     title: 'SDR Services',
-    description: 'Your outsourced SDR engine — trained, monitored, performance-driven.',
+    description: 'Your outsourced SDR engine - trained, monitored, performance-driven.',
     details: ['Meeting setting', 'Script optimization', 'CRM management', 'A/B testing']
   },
   {
@@ -250,7 +250,7 @@ export const BLOG_POSTS: BlogPost[] = [
 
         <h3 className="text-2xl font-bold text-white mb-4">Choose Between TAM and TCM</h3>
         <p className="mb-8">
-          Stop chasing the "Total Addressable Market" (TAM) for your pitch deck and focus on your "Total Conversional Market" (TCM)—the people who feel the problem today and are ready to act.
+          Stop chasing the "Total Addressable Market" (TAM) for your pitch deck and focus on your "Total Conversional Market" (TCM)-the people who feel the problem today and are ready to act.
         </p>
 
         <h3 className="text-2xl font-bold text-white mb-4">The "Default Mode" Advantage</h3>

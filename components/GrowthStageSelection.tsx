@@ -227,7 +227,7 @@ export const GrowthStageSelection: React.FC<{ onNavigate: (page: string) => void
                         transition={{ delay: 0.2 }}
                         className="text-white/40 max-w-xl mx-auto font-medium text-lg"
                     >
-                        We align to your current stage — not sell unnecessary services.
+                        We align to your current stage - not sell unnecessary services.
                     </motion.p>
                 </div>
 

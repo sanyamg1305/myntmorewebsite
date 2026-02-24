@@ -317,7 +317,7 @@ export const GrowthEngine: React.FC = () => {
                                         {displayNode.title}
                                     </h3>
                                     <p className="text-sm font-black text-[#FFC947]/60 uppercase tracking-widest max-w-md">
-                                        {displayNode.details.subtitle} — Integrated Revenue Ops
+                                        {displayNode.details.subtitle} - Integrated Revenue Ops
                                     </p>
                                 </div>
 

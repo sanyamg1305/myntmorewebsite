@@ -56,7 +56,7 @@ const Contact: React.FC = () => {
             <p className="italic text-2xl text-white/70 leading-relaxed font-light mb-8">
               "Myntmore's approach to B2B growth is unlike anything in the Indian market. They don't just promise leads; they build scalable revenue engines."
             </p>
-            <p className="font-black text-[10px] uppercase tracking-[0.5em] text-[#FFC947]">— Co-founder, TechSprout (Bangalore)</p>
+            <p className="font-black text-[10px] uppercase tracking-[0.5em] text-[#FFC947]">- Co-founder, TechSprout (Bangalore)</p>
           </div>
         </div>
 

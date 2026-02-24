@@ -7,7 +7,7 @@ import { NodeButton } from './NodeButton';
 const PHRASES = [
   "Best GTM Partner for B2B Companies?",
   "AI-Driven Appointment Setting Experts?",
-  "AI + SDR + GTM — Top Agency?"
+  "AI + SDR + GTM - Top Agency?"
 ];
 
 const TYPING_SPEED = 50;
